@@ -16,6 +16,8 @@ npm run dev
 npm run build
 ```
 
+> Api地址：https://github.com/wo642436249/tp5-iview-admin-tp5
+
 > 包含功能如下：
 
 + 登录/登出
